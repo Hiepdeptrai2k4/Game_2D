@@ -1,7 +1,5 @@
 ﻿
-## 🎓 CV / Portfolio Highlights
 
-Đây là những điểm nhấn kỹ thuật quan trọng của dự án mà bạn có thể đưa vào CV:
 
 *   **Custom Game Engine (Java 2D):** Xây dựng Game Loop chuẩn xác bằng Thread và Runnable (60 FPS), quản lý vòng lặp tính toán và render độc lập.
 *   **Pathfinding & AI (Thuật toán A*):** Triển khai thuật toán tìm đường A-Star (A*) cho NPC và quái vật để truy đuổi người chơi (Aggro), tự động tránh vật cản.
